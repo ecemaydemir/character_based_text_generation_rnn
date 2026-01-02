@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## Project Overview
 This project implements a **character-level Deep Recurrent Neural Network (Deep RNN)** trained on text from *Alice in Wonderland*. The model learns to predict the next character in a sequence given a context window.
